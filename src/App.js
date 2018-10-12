@@ -39,7 +39,7 @@ class App extends Component {
           className={''}
           onClick={this.handleLoginClick}
         >
-          Log In With Spotify
+          Log In With Spotify!
         </Button>
       </div>
     );
